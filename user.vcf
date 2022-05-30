@@ -9,7 +9,7 @@ EMAIL;type=INTERNET;type=WORK;type=pref:luis.rodriguez@cuxpid.com
 TEL;type=WORK;type=VOICE:+1 832 847 6849
 TEL;type=MOBILE;type=VOICE:+52 55 7726 5457
 TEL;type=MOBILE;type=VOICE:+506 8718 9189
-item1.ADR;type=WORK;type=pref:;;Cumbres de Santa Fe\Cuajimalpa\, CDMX;;;05600;Mexico
+item1.ADR;type=WORK;type=pref:;;Cumbres de Santa Fe,\ Cuajimalpa, CDMX;;;05600;Mexico
 item1.X-ABADR:sg
 item2.URL;type=pref:cuxpid.com
 item2.X-ABLabel:_$!<HomePage>!$_
